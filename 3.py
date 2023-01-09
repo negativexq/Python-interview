@@ -14,5 +14,5 @@ def solution(limitMax):
   # Kurala uyan tüm sayılardan en büyüğünü döndürüyoruz.      
   return max(pal)   
     
-    
+
 print(solution(999))
